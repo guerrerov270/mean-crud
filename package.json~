@@ -1,0 +1,34 @@
+{
+  "name": "mean_app",
+  "version": "1.0.0",
+  "description": "exampple of a single page application with crud",
+  "main": "index.js",
+  "scripts": {
+	"start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guerrerov270/test.git"
+  },
+  "keywords": [
+    "mean",
+    "spa"
+  ],
+  "author": "fingguerrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guerrerov270/test/issues"
+  },
+  "homepage": "https://github.com/guerrerov270/test#readme",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "angular-ui-router": "^1.0.3",
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
