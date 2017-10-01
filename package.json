@@ -1,5 +1,5 @@
 {
-  "name": "mean_app",
+  "name": "m-back",
   "version": "1.0.0",
   "description": "exampple of a single page application with crud",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guerrerov270/test.git"
+    "url": "git+https://github.com/guerrerov270/m-back.git"
   },
   "keywords": [
     "mean",
@@ -18,9 +18,9 @@
   "author": "fingguerrero",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guerrerov270/test/issues"
+    "url": "https://github.com/guerrerov270/m-back/issues"
   },
-  "homepage": "https://github.com/guerrerov270/test#readme",
+  "homepage": "https://github.com/guerrerov270/m-back#readme",
   "dependencies": {
     "angular": "^1.6.6",
     "angular-ui-router": "^1.0.3",
